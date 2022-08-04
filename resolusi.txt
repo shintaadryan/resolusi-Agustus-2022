@@ -2,4 +2,4 @@ Resolusi Agustus 2022:
 -Menyelesaikan materi web dasar 
 -menyelesaikan materi git
 -menyelesaikan materi logika pemrograman 
--menyelesaikan materi lainnya
+-menyelesaikan materi dasar pemrograman
