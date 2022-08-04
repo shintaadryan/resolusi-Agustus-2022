@@ -4,4 +4,4 @@ Resolusi Agustus 2022:
 -menyelesaikan materi logika pemrograman 
 -menyelesaikan materi dasar pemrograman
 -membuat sebuah project sederhana
--membuat sebuah portopolio
+
